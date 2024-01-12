@@ -1,0 +1,9 @@
+@inproceedings{REPO121,
+    author = "Adam, Lukas and Yao, Xin",
+    booktitle = "2019 IEEE Symposium Series on Computational Intelligence (SSCI)",
+    number = "",
+    pages = "680-688",
+    title = "{A Simple Yet Effective Approach to Robust Optimization Over Time}",
+    volume = "",
+    year = "2019"
+}
